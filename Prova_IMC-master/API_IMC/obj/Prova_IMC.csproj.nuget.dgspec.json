@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\Prova_IMC-master\\Prova_IMC-master\\API_IMC\\Prova_IMC.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\Prova_IMC\\Prova_IMC-master\\API_IMC\\Prova_IMC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\Prova_IMC-master\\Prova_IMC-master\\API_IMC\\Prova_IMC.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\Prova_IMC\\Prova_IMC-master\\API_IMC\\Prova_IMC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Prova_IMC-master\\Prova_IMC-master\\API_IMC\\Prova_IMC.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Prova_IMC\\Prova_IMC-master\\API_IMC\\Prova_IMC.csproj",
         "projectName": "Prova_IMC",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\Prova_IMC-master\\Prova_IMC-master\\API_IMC\\Prova_IMC.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\Prova_IMC\\Prova_IMC-master\\API_IMC\\Prova_IMC.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\Prova_IMC-master\\Prova_IMC-master\\API_IMC\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\Prova_IMC\\Prova_IMC-master\\API_IMC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
